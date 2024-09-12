@@ -23,20 +23,6 @@ nav_order: 2
     </div>
 </div>
 
-<div class="row justify-content-sm-left">
-    <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Yu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-    <div class="col-sm-9 mt-3 mt-md-0">
-        <H4>Yu Tian</H4>
-        <H5>Postdoctoral Scholar</H5>
-        <H6>Email: yu.tian@rutgers.edu</H6>
-        <H6>Office: ENR 208</H6>
-        <H6>Ph.D., Atmospheric Science, Institute of Atmospheric Physics, Chinese Academy of Sciences</H6>        
-        <H6>Research interests: Dust aerosols, atmospheric transport, wildfire plume dynamics</H6>        
-    </div>
-</div>
 
 
 <div class="row justify-content-sm-left">
@@ -73,16 +59,20 @@ nav_order: 2
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Chitral.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/yohan.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
     <div class="col-sm-9 mt-3 mt-md-0">
-        <H4>Chitral Samala</H4>
-        <H5>Undergraduate, George H. Cook Scholar</H5>
-        <H6>Senior in Meteorology, Rutgers University</H6>        
-        <H6>Research project: Ozone pollution under changing climate</H6>        
+        <H4>Yohan Yang</H4>
+        <H5>PhD Student</H5>
+        <H6>Email: yohan.yang@rutgers.edu</H6>
+        <H6>Office: ENR 206</H6>
+        <H6>M.S., Environmental Science, Pohang University of Science and Technology (POSTECH)</H6>        
+        <H6>Research interests: Impact of global change and human activities on air quality </H6>  
+        <H6>Website: https://sites.google.com/view/yohanyang </H6>     
     </div>
 </div>
+
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
@@ -91,11 +81,13 @@ nav_order: 2
 
     <div class="col-sm-9 mt-3 mt-md-0">
         <H4>Zaina Merchant</H4>
-        <H5>Undergraduate, Aresty Research Assistant</H5>
+        <H5>Undergraduate, Aresty Research Assistant (2023 - 2024), JJ Scholar (2024 - )</H5>
         <H6>Junior in Environmental Engineering, Rutgers University</H6>        
         <H6>Research project: Environmental justice for air quality</H6>        
     </div>
 </div>
+
+<H1>Alumni</H1>
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
@@ -104,8 +96,18 @@ nav_order: 2
 
     <div class="col-sm-9 mt-3 mt-md-0">
         <H4>Charlotte Orton</H4>
-        <H5>Undergraduate, Aresty Research Assistant</H5>
-        <H6>Sophomore in Environmental Chemistry, Rutgers University</H6>        
-        <H6>Research project: Impacts of wildfires on air quality in NJ</H6>        
+        <H5>Undergraduate, Aresty Research Assistant (2023 - 2024)</H5>
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Yu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Yu Tian</H4>
+        <H5>Postdoctoral Scholar (2023 - 2024)</H5>
     </div>
 </div>
