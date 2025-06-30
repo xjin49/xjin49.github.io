@@ -40,6 +40,23 @@ nav_order: 2
     </div>
 </div>
 
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Deepangsu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Deepangsu Chatterjee</H4>
+        <H5>Postdoctoral Scholar</H5>
+<!-- 
+        <H6>Email: jiaqi.shen@rutgers.edu</H6>
+ -->
+        <H6>Office: ENR 208</H6>
+        <H6>Ph.D., Energy, Environmental and Chemical Engineering, Washington University in St. Louis</H6>        
+        <H6>Research interests: My research is based on understanding and solving complex air pollution challenges using chemical transport modeling, satellite remote sensing and in-situ measurement networks, from global to local scales. My specific interests include sources of air pollution, particulate matter, greenhouse gases and their contribution to the health burden. I also work on developing high spatial and temporal resolution air quality monitoring and emissions estimates using constraints from satellite remote sensing.</H6>        
+    </div>
+</div>
+
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
@@ -74,6 +91,9 @@ nav_order: 2
 </div>
 
 
+
+<H1>Alumni</H1>
+
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Zaina.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -81,13 +101,12 @@ nav_order: 2
 
     <div class="col-sm-9 mt-3 mt-md-0">
         <H4>Zaina Merchant</H4>
-        <H5>Undergraduate, Aresty Research Assistant (2023 - 2024), JJ Scholar (2024 - )</H5>
-        <H6>Junior in Environmental Engineering, Rutgers University</H6>        
+        <H5>Undergraduate, Aresty Research Assistant (2023 - 2024), JJ Scholar (2024 - 2025)</H5>
+        <H6>Environmental Engineering, Rutgers University</H6>        
         <H6>Research project: Environmental justice for air quality</H6>        
+        <H6>Current Position: PhD student at CMU</H6>        
     </div>
 </div>
-
-<H1>Alumni</H1>
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">

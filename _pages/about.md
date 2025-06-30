@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Air Quality Lab
+subtitle: Rutgers Air Quality Lab (RAQL)
 
 
 profile:

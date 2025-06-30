@@ -20,7 +20,7 @@ This position is filled. Please stay tuned for other postdoc opportunities.
 Graduate assistant positions exist for motivated students. The Department of Environmental Sciences (DES) offers graduate programs in Environmental Science, Atmospheric Science, and Environmental Engineering. 
 Prospective students will have the flexibility to choose the program that best matches their interests. 
 
-Prospective applicants for Fall 2024 are encouraged to contact Xiaomeng Jin at (xiaomeng DOT jin AT rutgers DOT edu) to discuss your research interests.
+Prospective applicants for Fall 2026 are encouraged to contact Xiaomeng Jin at (xiaomeng DOT jin AT rutgers DOT edu) to discuss your research interests.
 
 <b>Undergraduate Students</b> 
 
@@ -30,6 +30,6 @@ to work on "Ozone Pollution under Changing Emissions and Climate" starting in Fa
 The application is due on April 15. 
  -->
 
-Openings exist for undergraduate research assistant interested in air pollution, wildfires and remote sensing. Please contact Xiaomeng Jin at (xiaomeng DOT jin AT rutgers DOT edu) to discuss your research interests.
+Openings exist for undergraduate research assistant interested in air pollution, wildfires, machine learning, and remote sensing. Please contact Xiaomeng Jin at (xiaomeng DOT jin AT rutgers DOT edu) to discuss your research interests.
 
 ***

@@ -8,15 +8,26 @@ nav_order: 6
 ---
 
 <div class="row justify-content-sm-left">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research_computing_class.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 
     <div class="col-sm-7 mt-3 mt-md-0">
-        <H4>Fall 2023</H4>
+        <H5>Fall 2023:</H5>
         <H6>Research Computing in Atmospheric and Environmental Sciences</H6>
-        <H6>16:107:606 Special Topics in Atmospheric Sciences </H6>
+<!-- 
         <a href="https://rcaes2023.github.io/rcaes_site/" target="_blank">Course Website</a>
+ -->
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <H5>Spring 2024:</H5>
+        <H6>Air Quality Modeling</H6>
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <H5>Fall 2024:</H5>
+        <H6>Environmental Science and Analysis</H6>
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <H5>Fall 2025:</H5>
+        <H6>Environmental Science and Analysis</H6>
+        <H6>Remote Sensing of Atmosphere and Ocean</H6>
     </div>
 </div>
 
