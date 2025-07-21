@@ -7,6 +7,32 @@ nav: true
 nav_order: 2
 ---
 
+<div class="row justify-content-center my-4 align-items-center">
+    <div class="col-sm-3 text-center">
+        <figure>
+            <img src="/assets/img/group_photo_2024.jpg" alt="Group Photo 2024" class="rounded mb-2" style="height: 300px; width: auto; max-width: 100%;">
+            <figcaption class="text-muted small">Group Photo 2024</figcaption>
+        </figure>
+    </div>
+<!-- 
+    <div class="col-sm-3 text-center">
+        <figure>
+            <img src="/assets/img/group_photo_2024.jpg" alt="Group Photo 2024" class="rounded mb-2" style="height: 300px; width: auto; max-width: 100%;">
+            <figcaption class="text-muted small">Group Photo 2024</figcaption>
+        </figure>
+    </div>
+ -->
+    <div class="col-sm-5 text-center">
+        <figure>
+            <img src="/assets/img/group_photo_2025.jpg" alt="Group Photo 2025" class="rounded mb-2" style="height: 300px; width: auto; max-width: 100%;">
+            <figcaption class="text-muted small">Group Photo 2025</figcaption>
+        </figure>
+    </div>
+</div>
+
+
+
+
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
