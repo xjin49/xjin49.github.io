@@ -7,7 +7,32 @@ importance: 2
 category: Core Research
 ---
 
-#### 1. Linking satellite AOD with surface PM<sub>2.5</sub>
+#### 1. Physics-based spatial oversampling of TROPOMI NO2 observations to neighborhood levels
+
+Satellite observations of NO2 have been widely used to inform health impacts and air pollution disparities. 
+We develop an approach that directly connects satellite NO2 observations to U.S. neighborhoods. 
+Using this dataset, we show significant NO2 pollution disparities across racial, ethnic, and income groups, which become even more pronounced on highly polluted days. 
+We expect the newly developed NO2 dataset could lower the barriers for the public to access and interpret satellite data, facilitating interdisciplinary applications of satellite data.
+
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/summary_figure_geohealth.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<b>Related Papers:</b>
+<ul>
+<p><b>Jin, X., Merchant, Z.</b> & Sun, K. (2025) Physics‐Based Spatial Oversampling of TROPOMI NO2 Observations to US Neighborhoods Reveals the Disparities of Air Pollution. <i>GeoHealth</i> 9, e2025GH001423.</p>
+</ul>
+
+
+
+
+<br>
+<br>
+
+#### 2. Linking satellite AOD with surface PM<sub>2.5</sub>
 
 Health impact analyses are increasingly tapping the broad spatial coverage of satellite aerosol optical depth (AOD) products to estimate human exposure to fine particulate matter (PM<sub>2.5</sub>). 
 We use a forward geophysical approach to derive PM<sub>2.5</sub> distributions from satellite AOD over the Northeast USA by applying PM<sub>2.5</sub>-AOD relationships simulated from a regional air quality model (CMAQ) coupled with a radiative transfer model. 
@@ -32,7 +57,7 @@ Our work suggests that the model representation of aerosol vertical profile, the
 <br>
 <br>
 
-#### 2. Health impacts of PM<sub>2.5</sub> 
+#### 3. Health impacts of PM<sub>2.5</sub> 
 
 Collaborating with public health experts, we compiled an ensemble of exposure models that include information from satellites, ground-based monitors and models. 
 We estimate the PM<sub>2.5</sub>-related mortality burden over NYS decreased by 67% from 2002 to 2012 (Jin et al., 2019b). 

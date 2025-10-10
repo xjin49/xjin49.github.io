@@ -24,6 +24,9 @@ Consequently, a larger increase in NO<sub>x</sub> occurs in NO<sub>x</sub>-limit
 <b>Related Papers:</b>
 <ul>
 <p><b>Jin, X. </b>, Fiore, A., Cohen, R., (2023). Space-Based Observations of Ozone Precursors within California Wildfire Plumes and the Impacts on Ozone-NO<sub>x</sub>‑VOC Chemistry.  Environ. Sci. Technol., <a href = "https://pubs.acs.org/doi/10.1021/acs.est.3c04411" target="_blank"> doi: 10.1021/acs.est.3c04411. </a> </p>
+
+<p><b>Shen, J.</b>, Cohen, R. C., Wolfe, G. M. & <b>Jin, X.</b> Impacts of wildfire smoke aerosols on near-surface ozone photochemistry. <i>Atmos. Chem. Phys.</i> 25, 8701–8718 (2025).</p>
+  
 </ul>
 
 

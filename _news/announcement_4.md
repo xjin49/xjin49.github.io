@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-01 15:59:00-0400
+date: 2025-10-01 15:59:00-0400
 inline: true
 ---
 
-Welcome new members of our group: Siyi Wang, Yu Tian, Jiaqi Shen, Chitral Samala, Zaina Merchant and Charlotte Orton!
+New [textbook chapter](https://www.worldscientific.com/doi/abs/10.1142/9789819813384_0008): Intersections between Trends in NOx and VOCs and the Impacts on Chemistry of Cities
