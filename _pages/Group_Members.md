@@ -49,38 +49,35 @@ nav_order: 2
     </div>
 </div>
 
-
-
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Jiaqi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Lixu.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
     <div class="col-sm-9 mt-3 mt-md-0">
-        <H4>Jiaqi Shen</H4>
+        <H4>Lixu Jin</H4>
         <H5>Postdoctoral Scholar</H5>
-        <H6>Email: jiaqi.shen@rutgers.edu</H6>
+        <H6>Email: lixu.jin@rutgers.edu</H6>
         <H6>Office: ENR 208</H6>
-        <H6>Ph.D., Atmospheric Science, University of California, Los Angeles</H6>        
-        <H6>Research interests: Aerosol-induced adverse health outcomes, cloud water chemistry, impacts of wildfires on air quality and human health.</H6>        
-    </div>
+        <H6>Ph.D., Chemistry, University of Montana</H6>        
+        <H6>Research interests: Wildfire smoke; volatile organic compounds (VOCs); ozone (O₃); fine particulate matter (PM₂.₅); hazardous air pollutants; chemical transport models (CTMs); satellite remote sensing; exposure assessment; air-quality forecasting.</H6>        
+        <H6>Personal Website: https://jinlx.github.io</H6> 
 </div>
+
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Deepangsu.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Deepangsu.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
     <div class="col-sm-9 mt-3 mt-md-0">
         <H4>Deepangsu Chatterjee</H4>
         <H5>Postdoctoral Scholar</H5>
-<!-- 
-        <H6>Email: jiaqi.shen@rutgers.edu</H6>
- -->
+        <H6>Email: dc1891@envsci.rutgers.edu</H6>
         <H6>Office: ENR 208</H6>
         <H6>Ph.D., Energy, Environmental and Chemical Engineering, Washington University in St. Louis</H6>        
         <H6>Research interests: My research is based on understanding and solving complex air pollution challenges using chemical transport modeling, satellite remote sensing and in-situ measurement networks, from global to local scales. My specific interests include sources of air pollution, particulate matter, greenhouse gases and their contribution to the health burden. I also work on developing high spatial and temporal resolution air quality monitoring and emissions estimates using constraints from satellite remote sensing.</H6>        
-    </div>
+        <H6>Personal Website: https://sites.wustl.edu/deepangsu/</H6> 
 </div>
 
 
@@ -116,9 +113,35 @@ nav_order: 2
     </div>
 </div>
 
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tej.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Tej Patel</H4>
+        <H5>Undergraduate Research Assistant</H5>
+        <H6>Computer and Electrical Engineering</H6>        
+        <H6>Research interests: AI applications for air quality </H6>  
+    </div>
+</div>
+
 
 
 <H1>Alumni</H1>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Jiaqi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Jiaqi Shen</H4>
+        <H5>Postdoctoral Scholar</H5>
+        <H6>Current Position: Postdoc Scholar at CU-Boulder</H6>        
+
+    </div>
+</div>
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 mt-3 mt-md-0">
