@@ -7,31 +7,45 @@ nav: true
 nav_order: 2
 ---
 
-<div class="row justify-content-center my-4 align-items-center">
-    <div class="col-sm-3 text-center">
-        <figure>
-            <img src="/assets/img/group_photo_2024.jpg" alt="Group Photo 2024" class="rounded mb-2" style="height: 300px; width: auto; max-width: 100%;">
-            <figcaption class="text-muted small">Group Photo 2024</figcaption>
-        </figure>
-    </div>
-<!-- 
-    <div class="col-sm-3 text-center">
-        <figure>
-            <img src="/assets/img/group_photo_2024.jpg" alt="Group Photo 2024" class="rounded mb-2" style="height: 300px; width: auto; max-width: 100%;">
-            <figcaption class="text-muted small">Group Photo 2024</figcaption>
-        </figure>
-    </div>
- -->
-    <div class="col-sm-5 text-center">
-        <figure>
-            <img src="/assets/img/group_photo_2025.jpg" alt="Group Photo 2025" class="rounded mb-2" style="height: 300px; width: auto; max-width: 100%;">
-            <figcaption class="text-muted small">Group Photo 2025</figcaption>
-        </figure>
-    </div>
+<div class="row mt-3 align-items-center">
+
+  <!-- 2024: vertical, smaller -->
+  <div class="col-md-3 text-center">
+    <img src="/assets/img/group_photo_2024.jpg"
+         class="img-fluid group-photo-side"
+         alt="Group Photo 2024">
+    <p>2024</p>
+  </div>
+
+  <!-- 2025: horizontal, bigger -->
+  <div class="col-md-4 text-center">
+    <img src="/assets/img/group_photo_2025.jpg"
+         class="img-fluid group-photo-center"
+         alt="Group Photo 2025">
+    <p>2025</p>
+  </div>
+
+  <!-- 2026: vertical, smaller -->
+  <div class="col-md-3 text-center">
+    <img src="/assets/img/group_photo_2026.jpg"
+         class="img-fluid group-photo-side"
+         alt="Group Photo 2026">
+    <p>2026</p>
+  </div>
+
 </div>
 
+<style>
+.group-photo-center {
+  width: 100%;
+  height: auto;
+}
 
-
+.group-photo-side {
+  width: 80%;
+  height: auto;
+}
+</style>
 
 
 <div class="row justify-content-sm-left">
@@ -120,9 +134,50 @@ nav_order: 2
 
     <div class="col-sm-9 mt-3 mt-md-0">
         <H4>Tej Patel</H4>
-        <H5>Undergraduate Research Assistant</H5>
-        <H6>Computer and Electrical Engineering</H6>        
+        <H5>Undergraduate Research Assistant and RAD SURF Fellow</H5>
+        <H6>Computer and Electrical Engineering, Rutgers University</H6>        
         <H6>Research interests: AI applications for air quality </H6>  
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Alex.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Alexander Cherny</H4>
+        <H5>Undergraduate Summer Intern</H5>
+        <H6>Atmospheric Science, Cornell University</H6>        
+        <H6>Research interests: Air Pollution and Meteorology </H6>  
+    </div>
+</div>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Seleena.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Seleena Busi</H4>
+        <H5>Aresty Undergraduate Summer RA</H5>
+        <H6>Computer Science, Rutgers University</H6>        
+        <H6>Research interests: Data Science Applications for Air Pollution</H6>  
+    </div>
+</div>
+
+
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Sally.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <H4>Doan Quynh Phuong (Sally) Pham</H4>
+        <H5>Aresty RA</H5>
+        <H6>Computer Science, Rutgers University</H6>        
+        <H6>Research interests: Data Science Applications for Air Pollution</H6>  
     </div>
 </div>
 

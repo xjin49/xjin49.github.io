@@ -29,6 +29,10 @@ nav_order: 6
         <H6>Environmental Science and Analysis</H6>
         <H6>Remote Sensing of Atmosphere and Ocean</H6>
     </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <H5>Spring 2026:</H5>
+        <H6>Air Quality Modeling</H6>
+    </div>
 </div>
 
 
